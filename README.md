@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Izhar Pathan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Passionate Java full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadizharpathan&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadizharpathan" /> </p>
 
