@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadizharpathan" alt="mohammadizharpathan" /></a> </p>
 
-- 🔭 I’m currently working on **Real**
+- 🔭 I’m currently working on **Ruby on Rails**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
